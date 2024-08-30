@@ -58,6 +58,10 @@ export let uuid = (n = 20) => {
 
 export const getRandomFromRange = (min, max, step = 1) =>
   Math.floor(Math.random() * (max - min + step) + min);
+export const randomFloatInRange = (min, max) => {
+  let delta = max - min;
+  return parseFloat((Math.random() * delta + min).toFixed(4));
+};
 export const getRandomFloat = () => {
   return parseFloat((Math.random() * 2 - 1).toFixed(3));
 };

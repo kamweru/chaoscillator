@@ -27,9 +27,9 @@ class Vector {
   static subtract(v1, v2) {
     return new Vector(v1.x - v2.x, v1.y - v2.y);
   }
-  static fromAngle(angle, length = 1) {
-    return new Vector(length * Math.cos(angle), length * Math.sin(angle), 0);
-  }
+  // static fromAngle(angle, length = 1) {
+  //   return new Vector(length * Math.cos(angle), length * Math.sin(angle));
+  // }
   multiply(scalar) {
     this.x *= scalar;
     this.y *= scalar;

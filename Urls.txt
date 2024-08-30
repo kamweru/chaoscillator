@@ -1,0 +1,15 @@
+https://github.com/Mjolksaft/snek/tree/main
+https://github.com/Sheraff/bird-inverse-kinematics-bezier/tree/main
+https://github.com/dusanmitrovic98/procedural-snake-animation/tree/main
+https://github.com/YoungVigz/procedural-animations/tree/main
+https://github.com/junwoo2040/procedural-animation/tree/master
+https://github.com/Hamjadidris/procedurally-generated-animation/tree/main
+https://github.com/SethMess/Procedural-fish/tree/8c063bf8039697931d064d43087d7518d7f533b6
+https://github.com/rowanwoodell/procedural-animation/tree/main
+https://github.com/kaddef/ProceduralAnimation/tree/main
+https://github.com/Marllon-Freitas/simple-procedural-animation
+https://github.com/Marllon-Freitas/simple-procedural-animation
+https://github.com/Reynau/Animations?tab=readme-ov-file
+https://github.com/tjpalmer/fullik/tree/be7c92f8b16133e60e8c800d5c23279e54bd4bc8
+https://github.com/ndahn/Rocksi/tree/fb37baf7f808f91c4e9785c9c00e74cb643375a6?tab=readme-ov-file
+https://github.com/LivelyKernel/lively4-core/tree/da64907ea838d53012e373c406b18eca3876845b
